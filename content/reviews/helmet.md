@@ -12,7 +12,7 @@ weight: 5
 
 ## AFX Helmet FZ-41DS 
 
-![](/img/helmet.jpg)
+![](../img/helmet.jpg)
 
 After using the helmet for a few weeks now I would say that it is reasonably comfortable and the wind noise is no greater or less than all of my previous helemets. The visor ratchet mechanism is study and is not easily moved which I really like as it can not be moved out of the selected position except by a good push or pull on it. The visor is also reasonably thick and thus offers good protection from flying objects.
 
