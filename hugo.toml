@@ -1,0 +1,19 @@
+baseURL = 'https://www.madbiker.co.uk/'
+languageCode = 'en-us'
+title = 'The Madbiker'
+theme = 'ticky_tacky_dark-main'
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+enableEmoji = true
+
+[params]
+    favicon = "favicon.ico"
+    description = "The Adventures of the Madbiker."
+    images = ["img/header-bg.jpg", "img/header1-bg.jpg"]
+    headername = "The Madbiker"
+    #msvalidate = ""
+    #googlesiteverification = ""
+
+[Author]
+    name = "The Madbiker"
+    email = "themadbiker@protonmail.com"

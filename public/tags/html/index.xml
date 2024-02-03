@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>html on The Madbiker</title>
+    <link>https://www.madbiker.co.uk/tags/html/</link>
+    <description>Recent content in html on The Madbiker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>madbiker250@protonmail.com (The Madbiker)</managingEditor>
+    <webMaster>madbiker250@protonmail.com (The Madbiker)</webMaster>
+    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.madbiker.co.uk/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Photographs</title>
+      <link>https://www.madbiker.co.uk/photos/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate><author>madbiker250@protonmail.com (The Madbiker)</author>
+      <guid>https://www.madbiker.co.uk/photos/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
