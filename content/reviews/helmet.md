@@ -5,7 +5,7 @@ date: 2019-12-08T00:00:00-00:00
 buttonimage: "img/helmet.jpg"
 images: ["img/review-bg.jpg", "img/review1-bg.jpg", "img/review2-bg.jpg"]
 draft: false
-weight: 5
+weight: 6
 ---
 
 # HELMET REVIEW

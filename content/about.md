@@ -5,7 +5,7 @@ date: 2019-12-08T00:00:00-00:00
 buttonimage: "img/about1.jpg"
 images: ["img/side-bg.jpg", "img/side1-bg.jpg"]
 draft: false
-weight: 4
+weight: 1
 ---
 
 My name is Tom Mackay and I am The MadBiker and before I shall write anything else I shall answer the obvious question, why did I choose that name to call my online self? 
@@ -14,7 +14,7 @@ When I informed those that knew me that I was giving up a well paid job, selling
 
 I am orginally from the city of Glasgow in Scotland and I have been been riding bikes continuously since the age of seventeen.
 
-This website is primarily intended as a "One Stop Shop" for all of my online material such as my travel blog, my photographs, and an itnteractive map of my journey. MY Facebook and Instagram links can be found at the bottom of my travel blog home page.
+This website is primarily intended as a "One Stop Shop" for all of my online material such as my travel blog, my photographs, an itnteractive map of my journey, and links to websites that I have found to be useful, my Facebook and Instagram links can also be found at the bottom of my travel blog home page.
 
 I have also included, and will continue to include, reviews of anything that I buy and use related to riding my bike on such a trip and these product reviews are soley aimed that those who also ride bikes. 
 
