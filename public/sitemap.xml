@@ -2,31 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.madbiker.co.uk/blog/</loc>
+    <loc>https://www.themadbiker.co.uk/about/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.madbiker.co.uk/photos/</loc>
+    <loc>https://www.themadbiker.co.uk/blog/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.madbiker.co.uk/tags/css/</loc>
+    <loc>https://www.themadbiker.co.uk/photos/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.madbiker.co.uk/</loc>
+    <loc>https://www.themadbiker.co.uk/route/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.madbiker.co.uk/tags/html/</loc>
+    <loc>https://www.themadbiker.co.uk/links/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.madbiker.co.uk/tags/photo/</loc>
+    <loc>https://www.themadbiker.co.uk/helmet/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.madbiker.co.uk/categories/syntax/</loc>
+    <loc>https://www.themadbiker.co.uk/tags/css/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.madbiker.co.uk/tags/themes/</loc>
+    <loc>https://www.themadbiker.co.uk/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.madbiker.co.uk/categories/themes/</loc>
+    <loc>https://www.themadbiker.co.uk/tags/html/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.themadbiker.co.uk/tags/photo/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.themadbiker.co.uk/reviews/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.themadbiker.co.uk/categories/syntax/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.themadbiker.co.uk/tags/themes/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.themadbiker.co.uk/categories/themes/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url>
 </urlset>
