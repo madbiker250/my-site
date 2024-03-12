@@ -2,55 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on The Madbiker</title>
-    <link>https://www.themadbiker.co.uk/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on The Madbiker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>themadbiker@protonmail.com (The Madbiker)</managingEditor>
     <webMaster>themadbiker@protonmail.com (The Madbiker)</webMaster>
-    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.themadbiker.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://www.themadbiker.co.uk/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate><author>themadbiker@protonmail.com (The Madbiker)</author>
-      <guid>https://www.themadbiker.co.uk/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>My name is Tom Mackay and I am The MadBiker and before I shall write anything else I shall answer the obvious question, why did I choose that name to call my online self?&#xA;When I informed those that knew me that I was giving up a well paid job, selling or giving away all of my worldly possessions, and leaving behind a comfortable lifestyle to travel the word on a bike, a lot of people told me that I was Mad!</description>
     </item>
     <item>
       <title>My Blog - Off The Hamster Wheel</title>
-      <link>https://www.themadbiker.co.uk/blog/</link>
+      <link>http://localhost:1313/blog/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate><author>themadbiker@protonmail.com (The Madbiker)</author>
-      <guid>https://www.themadbiker.co.uk/blog/</guid>
+      <guid>http://localhost:1313/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>My Photographs</title>
-      <link>https://www.themadbiker.co.uk/photos/</link>
+      <link>http://localhost:1313/photos/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate><author>themadbiker@protonmail.com (The Madbiker)</author>
-      <guid>https://www.themadbiker.co.uk/photos/</guid>
+      <guid>http://localhost:1313/photos/</guid>
       <description></description>
     </item>
     <item>
       <title>My Route</title>
-      <link>https://www.themadbiker.co.uk/route/</link>
+      <link>http://localhost:1313/route/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate><author>themadbiker@protonmail.com (The Madbiker)</author>
-      <guid>https://www.themadbiker.co.uk/route/</guid>
+      <guid>http://localhost:1313/route/</guid>
       <description></description>
     </item>
     <item>
       <title>Useful Links</title>
-      <link>https://www.themadbiker.co.uk/links/</link>
+      <link>http://localhost:1313/links/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate><author>themadbiker@protonmail.com (The Madbiker)</author>
-      <guid>https://www.themadbiker.co.uk/links/</guid>
+      <guid>http://localhost:1313/links/</guid>
       <description>My useful links page&#xA;https://www.royalenfieldowners.com/index.php&#xA;https://www.horizonsunlimited.com/&#xA;https://ioverlander.com/&#xA;https://www.tolls.eu/&#xA;https://www.atlasobscura.com/destinations</description>
     </item>
     <item>
       <title>Helmet Review</title>
-      <link>https://www.themadbiker.co.uk/helmet/</link>
+      <link>http://localhost:1313/helmet/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate><author>themadbiker@protonmail.com (The Madbiker)</author>
-      <guid>https://www.themadbiker.co.uk/helmet/</guid>
+      <guid>http://localhost:1313/helmet/</guid>
       <description>HELMET REVIEW AFX Helmet FZ-41DS After using the helmet for a few weeks now I would say that it is reasonably comfortable and the wind noise is no greater or less than all of my previous helmets. The visor ratchet mechanism is study and is not easily moved which I really like as it can not be moved out of the selected position except by a good push or pull on it.</description>
+    </item>
+    <item>
+      <title>Jacket Review</title>
+      <link>http://localhost:1313/jacket/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate><author>themadbiker@protonmail.com (The Madbiker)</author>
+      <guid>http://localhost:1313/jacket/</guid>
+      <description>JACKET REVIEW Revit Duke H2O The jacket is marketed as an entry level all season jacket which I paid $245 for. The jacket comes fitted with armour for the elbows and shoulders, there is a pocket in the jacket for a spine protector which I purchased at an extra cost of $57.&#xA;I have yet to test the waterproofing claims as until now I have only been caught in one minor shower during which the jacket got wet but not soaked.</description>
+    </item>
+    <item>
+      <title>Trousers Review</title>
+      <link>http://localhost:1313/trousers/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate><author>themadbiker@protonmail.com (The Madbiker)</author>
+      <guid>http://localhost:1313/trousers/</guid>
+      <description>TROUSERS REVIEW Revit Outback 4 H2O These trousers are marketed as all season trousers which I paid $285 for. The trousers come fitted with armour for the knees. The trousers have both a separate waterproof and a separate thermal liner.&#xA;The trousers have two pockets that are secured with vertical zips on either hip and are reasonably sized. The trousers have an adjustable waist using elasticated straps held in place with Velcro but there is no front zip.</description>
+    </item>
+    <item>
+      <title>Scottoiler Review</title>
+      <link>http://localhost:1313/oiler/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate><author>themadbiker@protonmail.com (The Madbiker)</author>
+      <guid>http://localhost:1313/oiler/</guid>
+      <description>SCOTTOILER REVIEW Scottoiler V System The Scottoiler system works by using the vacum created by the running engine to open a valve in the oil resevoir allowing oil to flow from the resevoir, through a feeder tube, and on to the drive chain. The rate of flow is controlled by rotating a lever built in to the top of the resevoir and refilling the resevoir can be done with a tube supplied in the kit.</description>
+    </item>
+    <item>
+      <title>Throttle Assistant Review</title>
+      <link>http://localhost:1313/throttle/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate><author>themadbiker@protonmail.com (The Madbiker)</author>
+      <guid>http://localhost:1313/throttle/</guid>
+      <description>THROTTLE ASSIST REVIEW Fireparts Throttle Assitant I bought this throttle assistant from the Royal Enfield dealers in Panama city at a cost of $15.&#xA;It is a very simple device that is made of soft rubber that wraps around the throttle twistgrip and provides a flat surface that you can use to rest your wrist or the palm of your hand on to keep the throttle held open. By using it like this, this provides some relief for your fingers which can become stiff from constantly gripping the twistgrip as you ride.</description>
     </item>
   </channel>
 </rss>
