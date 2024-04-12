@@ -22,18 +22,20 @@ The thermal liner is held in place by small plastic pop studs around the inside 
 
 On the thigh of each leg of the trousers is a vertical zip that allows a flap on the trouser leg to be opened to allow for ventilation. In the design of this feature, provision has been made to secure the flap when it is opened by using a plastic pop stud to fasten it to the trouser leg. 
 
-The things that I like about the trousers is limited to the ventilation flaps on the legs and the width of the trousers that easily allows boots to be used inside of them. 
+The things that I like about the trousers is limited to the ventilation flaps on the legs and the width of the bottom of the trouser legs that easily allows boots to be used inside of them. 
 
-The things that I dislike about the jacket are as follows. 
+The things that I dislike about the trousers are as follows. 
 
-Firstly the cut of the trousers seem to have been made for humans with large buttocks as on me, whilst they fit at the waist, around my buttocks and thighs they look like horse riding jodhpurs. In other words, unlike normal trousers the hip size is not in proportion to the waist size and the leg length.
+Firstly the cut of the trousers seem to have been made for humans with large thighs and large buttocks, whilst on me they fit at the waist, around my buttocks and thighs they look like horse riding jodhpurs. In other words, unlike normal trousers the hip size is not in proportion to the waist size and the leg length.
 
-Secondly and perhaps my most important criticism is about the separate waterproof liner. To fit the liner you have to either to do it before the trousers are worn or you need to take the trousers off, fit the liner, and then put the trousers back on. Now I do not know who thought of this design but it was obviously not a biker who has travelled any great distance on a bike. 
+Secondly and perhaps my most important criticism is about the separate waterproof liner. To fit the liner you have to either to do it before the trousers are worn or you need to take the trousers off, fit the liner, and then put the trousers back on. Now I do not know who thought of this design but it was obviously not a biker who has travelled any great distance on a bike.
+
+Thirdly, the inteior mesh lining is only attacjed to the trousers at the waist and at the bottom of the legs which means that it moves about inside the outer trouser layer. So, when it is very hot and I am sweating, the mesh inner clings to my legs whilst the outside of the trouser leg moves about. Now I know this does not sound very important but in this way the trousers seem to be too loose and not a good fit which also means that in the case of a spill, the protection that is fitted in to the outer layer will in all propability rotate on contact potentially moving the protection away from where it is supposed to protect, namely the hips and the knees. Not something that I would like to test.
 
 As all bikers know, depending on the season the weather can be very changeable. One minute you can be riding in sunshine and a few minutes later you can be riding in a thunderstorm. For these trousers to be used in such conditions you would have to either continuously wear them with the waterproof liner fitted or stop, remove your trousers and boots at the side of the road, fit the waterproof liner in to the trousers, then put them and your boots back on.
 
-My Third criticism of these trousers concerns the absence of a frontal zip. If they were constructed with the waterproof layer as an integral part of the trousers then the absence of a frontal zip would make sense, but as the trousers are not waterproof without fitting the internal waterproof layer, then this design element in the trousers makes no sense.
+My last criticism of these trousers concerns the absence of a frontal zip. If they were constructed with the waterproof layer as an integral part of the trousers then the absence of a frontal zip would make sense, but as the trousers are not waterproof without fitting the internal waterproof layer, then this design element in the trousers makes no sense.
 
-In my opinion these trousers, whilst functional at a basic level, are an example of a bad product design especially as they are marketed as suitable for "Adventure touring" which in my experience requires clothing that can be worn in dry or wet conditions without having to worry about fitting a waterproof inner lining if the weather changes whilst you are riding a bike.
+In my opinion these trousers, whilst functional at a very basic level in good weather, are an example of a bad product design especially as they are marketed as suitable for "Adventure touring" which in my experience requires clothing that can be worn in dry or wet conditions without having to worry about fitting a waterproof inner lining if the weather changes whilst you are riding.
 
 Once I have worn these trousers in the rain with the waterproof liner fitted I shall update this review as appropriate.
