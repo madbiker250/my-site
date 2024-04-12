@@ -28,5 +28,8 @@ The same applies to the collar fastening, as when you want it open for ventilati
 
 In my opinion these are design flaws in the jacket which leads me to believe that whoever designed the jacket was either not a biker or was someone who only considered that the jacket would only be used with the collar and the cuffs being closed at all times whilst being worn on a bike. In any case, I am of the opinion that I should not have had to make alterations to the jacket to prevent anything flapping about in the wind when the collar and cuffs were opened for ventilation.
 
-Once I have worn the jacket in the rain I shall update this review as appropriate.
+I have now worn this jacket in heavy rain and whilst it appears to be generally waterproof I have a couple of observations about this. The 2 exterior pockets are not waterproof and in my opinion this is a major issue on jacket that is advertised as waterproof. The interior zipped pocket appears to be waterproof but I am not 100% sure about this. 
 
+When I was riding in the heavy rain in Costa Rica it was quite warm and as all bikers know, water ingress is really only really detected in cold weather when the water entering your clothing is also cold. The front of my riding shirt was also damp after riding in the rain but I am not sure whether this was due to the zip area of the jacket letting water in or the wicking effect of water being drawn up on to my riding shirt from where it was in contact with my riding trousers. 
+
+Once again, once I have more information about this I shall update this reveiw.
