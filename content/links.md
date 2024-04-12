@@ -20,3 +20,6 @@ https://www.tolls.eu/
 
 https://www.atlasobscura.com/destinations
 
+https://www.lomo.co.uk/products/dry-bag-motorcycle-panniers-soft-1-pair/
+
+https://www.fpmoto.com/maletas-drybags-para-moto

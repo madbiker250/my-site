@@ -2,7 +2,7 @@
 title: "Helmet Review"
 url: 'helmet'
 date: 2019-12-08T00:00:00-00:00
-buttonimage: "img/helmet.jpg"
+buttonimage: "img/helmet1.png"
 images: ["img/review-bg.jpg", "img/review1-bg.jpg", "img/review2-bg.jpg"]
 draft: false
 weight: 6
